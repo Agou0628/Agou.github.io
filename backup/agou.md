@@ -1,0 +1,6 @@
+ {
+    "title":"阿苟的个人网站",
+    "subTitle":"你好！",
+    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "GMEEK_VERSION":"last"
+}
